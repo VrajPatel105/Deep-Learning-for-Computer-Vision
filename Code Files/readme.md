@@ -1,12 +1,9 @@
 Here are all the coding files that were done while understanding the topic
+Below is my explaination on the CNN architecture. I have used claude in order to rewrite and make readme look better :) But the words and intuition is written by me
 # Understanding CNN Architecture
 ### A Complete Visual Walkthrough
 
 <div align="center">
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN-0066cc?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning-00aa00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-ffcc00?style=for-the-badge)
 
 *A comprehensive guide to understanding how Convolutional Neural Networks process images*
 
