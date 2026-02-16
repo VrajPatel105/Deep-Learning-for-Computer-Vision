@@ -34,7 +34,7 @@ Convolutional Neural Network (CNN)
 
 
 
-Also, Here are all the coding files that were done while understanding the topic
+# **Also, Here are all the coding files that were done while understanding the topic**
 
 Below is my explaination on the CNN architecture. I have used claude in order to rewrite and make readme look better :) But the words and intuition is written by me
 # Understanding CNN Architecture
